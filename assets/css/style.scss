@@ -1,6 +1,12 @@
+---
+---
+
 @import "{{ site.theme }}";
+
 header {
   img {
+    border-width: thin;
+    border-style: solid;
     border-radius: 50%;
   }
   p {
